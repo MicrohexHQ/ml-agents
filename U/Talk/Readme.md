@@ -1,3 +1,2 @@
 ![](https://github.com/MicrohexHQ/ml-agents/blob/master/U/AI/ArtBoard%20Image%20(554).jpg)
 
-https://mobile.twitter.com/medialab/status/666701475842793477
