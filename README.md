@@ -1,6 +1,7 @@
 <img src="images/unity-wide.png" align="middle" width="3000"/>
 
 # Unity ML - Agents (Beta)
+![](https://github.com/MicrohexHQ/ml-agents/blob/master/U/AI/ArtBoard%20Image%20(557).jpg)
 
 **Unity Machine Learning Agents** allows researchers and developers to
 create games and simulations using the Unity Editor which serve as
